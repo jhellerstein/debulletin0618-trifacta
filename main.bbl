@@ -1,0 +1,199 @@
+\begin{thebibliography}{10}
+
+\bibitem{bloor}
+{Bloor Research International}.
+\newblock {Self-Service Data Preparation and Cataloguing}, 2016.
+\newblock
+  \url{https://www.bloorresearch.com/research/self-service-data-preparation-cataloguing/}
+  accessed 05/14/2018.
+
+\bibitem{cdc}
+{Center for Disease Control}.
+\newblock The anatomy of an {HIV} outbreak response in a rural community, 2015.
+\newblock
+  \url{https://blogs.cdc.gov/publichealthmatters/2015/06/the-anatomy-of-an-hiv-outbreak-response-in-a-rural-community/},
+  accessed 5/11/2018.
+
+\bibitem{chu2016data}
+Xu~Chu, Ihab~F Ilyas, Sanjay Krishnan, and Jiannan Wang.
+\newblock Data cleaning: Overview and emerging challenges.
+\newblock In {\em Proceedings of the 2016 International Conference on
+  Management of Data}, pages 2201--2206. ACM, 2016.
+
+\bibitem{doan2012principles}
+AnHai Doan, Alon Halevy, and Zachary Ives.
+\newblock {\em Principles of data integration}.
+\newblock Elsevier, 2012.
+
+\bibitem{dresner}
+{Dresner Advisory Services}.
+\newblock {End User Data Preparation Study}, 2015.
+\newblock
+  \url{https://www.trifacta.com/gated-form/trifacta-earns-top-ranking-in-end-user-data-preparation-study/},
+  accessed 05/14/2018.
+
+\bibitem{personas}
+Kim Flaherty.
+\newblock Why personas fail, 2018.
+\newblock \url{https://www.nngroup.com/articles/why-personas-fail/}, accessed
+  5/11/2018.
+
+\bibitem{galhardas2000ajax}
+Helena Galhardas, Daniela Florescu, Dennis Shasha, and Eric Simon.
+\newblock Ajax: an extensible data cleaning tool.
+\newblock In {\em ACM Sigmod Record}, volume~29, page 590. ACM, 2000.
+
+\bibitem{gartner-peer-insights}
+{Gartner}.
+\newblock {Peer Insights: Data Preparation}.
+\newblock \url{https://www.gartner.com/reviews/market/data-preparation-tools},
+  accessed 05/14/2018.
+
+\bibitem{gulwani2011automating}
+Sumit Gulwani.
+\newblock Automating string processing in spreadsheets using input-output
+  examples.
+\newblock In {\em ACM SIGPLAN Notices}, volume~46, pages 317--330. ACM, 2011.
+
+\bibitem{proactive-wrangler}
+Philip~J. Guo, Sean Kandel, Joseph Hellerstein, and Jeffrey Heer.
+\newblock Proactive wrangling: Mixed-initiative end-user programming of data
+  transformation scripts.
+\newblock In {\em Proc. ACM User Interface Software \& Technology (UIST)},
+  2011.
+
+\bibitem{cidr-pi}
+Jeffrey Heer, Joseph Hellerstein, and Sean Kandel.
+\newblock Predictive interaction for data transformation.
+\newblock In {\em Proc. Conference on Innovative Data Systems Research (CIDR)},
+  2015.
+
+\bibitem{photon}
+Joseph~M. Hellerstein and Seshadri Mahalingam.
+\newblock {Architecting Immediacy---The Design of a High-Performance Portable
+  Wrangling Engine}.
+\newblock In {\em Strata Conference}, March~31, 2016.
+
+\bibitem{hernandez2001clio}
+Mauricio~A Hern{\'a}ndez, Ren{\'e}e~J Miller, and Laura~M Haas.
+\newblock Clio: A semi-automatic tool for schema mapping.
+\newblock {\em ACM SIGMOD Record}, 30(2):607, 2001.
+
+\bibitem{ravi}
+Ravi Hubbly, 2018.
+\newblock \url{https://www.trifacta.com/partners/leidos/}, accessed 05/16/2018.
+
+\bibitem{ilyas2015trends}
+Ihab~F Ilyas, Xu~Chu, et~al.
+\newblock Trends in cleaning relational data: Consistency and deduplication.
+\newblock {\em Foundations and Trends{\textregistered} in Databases},
+  5(4):281--393, 2015.
+
+\bibitem{jin2017foofah}
+Zhongjun Jin, Michael~R Anderson, Michael Cafarella, and HV~Jagadish.
+\newblock Foofah: Transforming data by example.
+\newblock In {\em Proceedings of the 2017 ACM International Conference on
+  Management of Data}, pages 683--698. ACM, 2017.
+
+\bibitem{kandel2011wrangler}
+Sean Kandel, Andreas Paepcke, Joseph Hellerstein, and Jeffrey Heer.
+\newblock Wrangler: Interactive visual specification of data transformation
+  scripts.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 3363--3372. ACM, 2011.
+
+\bibitem{wrangler}
+Sean Kandel, Andreas Paepcke, Joseph Hellerstein, and Jeffrey Heer.
+\newblock Wrangler: Interactive visual specification of data transformation
+  scripts.
+\newblock In {\em Proc. ACM Human Factors in Computing Systems (CHI)}, 2011.
+
+\bibitem{interviews}
+Sean Kandel, Andreas Paepcke, Joseph Hellerstein, and Jeffrey Heer.
+\newblock Enterprise data analysis and visualization: An interview study.
+\newblock In {\em Proc. IEEE Visual Analytics Science \& Technology (VAST)},
+  2012.
+
+\bibitem{kemper2011hyper}
+Alfons Kemper and Thomas Neumann.
+\newblock Hyper: A hybrid oltp\&olap main memory database system based on
+  virtual memory snapshots.
+\newblock In {\em ICDE}, pages 195--206, 2011.
+
+\bibitem{impala}
+Marcel Kornacker and Justin Erickson.
+\newblock Cloudera impala: Real time queries in apache hadoop, for real.
+\newblock {\em Cloudera Engineering Blog}, October 2012.
+
+\bibitem{leidos}
+Leidos.
+\newblock Deploying new tools for the fight against disease outbreaks, 2016.
+\newblock
+  \url{https://www.leidos.com/sites/default/files/responsive/Health/CAADS-Case-Study.pdf},
+  accessed 5/11/2018.
+
+\bibitem{forrester-wave}
+Cinny Little, Gene Leganza, and Jun Lee.
+\newblock {\em The Forrester Wave™: Data Preparation Tools, Q1 2017}.
+\newblock Forrester, 2017.
+
+\bibitem{nyt-janitor}
+Steve Lohr.
+\newblock {For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to
+  Insights}.
+\newblock {\em The New York Times}, August~17, 2014.
+
+\bibitem{marcus2015crowdsourced}
+Adam Marcus, Aditya Parameswaran, et~al.
+\newblock Crowdsourced data management: Industry and academic perspectives.
+\newblock {\em Foundations and Trends{\textregistered} in Databases},
+  6(1-2):1--161, 2015.
+
+\bibitem{novet-dataprep}
+Jordan Novet.
+\newblock {Google launches Cloud Dataprep, an embedded version of Trifacta}.
+\newblock {\em VentureBeat}, March~9, 2017.
+
+\bibitem{patil2012data}
+DJ~Patil.
+\newblock {\em Data Jujitsu}.
+\newblock O'Reilly Media, Inc., 2012.
+
+\bibitem{raman2001potter}
+Vijayshankar Raman and Joseph~M Hellerstein.
+\newblock Potter's wheel: An interactive data cleaning system.
+\newblock In {\em VLDB}, volume~1, pages 381--390, 2001.
+
+\bibitem{raman2002partial}
+Vijayshankar Raman and Joseph~M Hellerstein.
+\newblock Partial results for online query processing.
+\newblock In {\em Proceedings of the 2002 ACM SIGMOD international conference
+  on Management of data}, pages 275--286. ACM, 2002.
+
+\bibitem{raman1999online}
+Vijayshankar Raman, Bhaskaran Raman, and Joseph~M Hellerstein.
+\newblock Online dynamic reordering for interactive data processing.
+\newblock In {\em VLDB}, volume~99, pages 709--720, 1999.
+
+\bibitem{rattenbury2015data}
+T~Rattenbury, JM~Hellerstein, J~Heer, and S~Kandel.
+\newblock {\em Data Wrangling: Techniques and Concepts for Agile Analytics}.
+\newblock O’Reilly Media, Sebastopol, CA, 2015.
+
+\bibitem{nyt}
+Megan Twohey.
+\newblock {Mike Pence's} response to {H.I.V}. outbreak: Prayer, then a change
+  of heart.
+\newblock {\em The New York Times}, August~7, 2016.
+
+\bibitem{datanami}
+Alex Woodie.
+\newblock Tracking the opioid-fueled outbreak with big data.
+\newblock {\em Datanami}, December~15, 2016.
+
+\bibitem{gartner-marketguide-2017}
+Ehtisham Zaidi, Rita~L. Sallam, and Shubhangi Vashisth.
+\newblock {\em Market Guide for Data Preparation}.
+\newblock Gartner, December~14, 2017.
+
+\end{thebibliography}
